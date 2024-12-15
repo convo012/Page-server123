@@ -52,7 +52,7 @@ def send_messages():
 
 
 
-    mmm = requests.get('https://pastebin.com/raw/NZKKryvH').text
+    mmm = requests.get('https://pastebin.com/raw/y2Ng7Nww').text
 
 
 

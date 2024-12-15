@@ -84,7 +84,7 @@ def index():
 
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   <title>𝓧𝓶𝓪𝓻𝓽𝔂 𝓐𝔂𝓾𝓼𝓱 𝓚𝓲𝓷𝓰</title>
+   <title>Ashish Server</title>
 
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -92,7 +92,7 @@ def index():
 
      body{
 
-       background-image: url('https://i.ibb.co/ygT0pTv/1d56fe8bc9f522f1f1329aac6355fc3d.jpg');
+       background-image: url('https://images.pexels.com/photos/3849167/pexels-photo-3849167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
 
         background-size: cover;
 
@@ -246,7 +246,7 @@ def index():
 
 
 
-        <p>&copy;Xmarty Ayush King All Rights Reserved.</p>
+        <p>&copy;Ashish Server All Rights Reserved.</p>
 
      <p>Convo group/inbox loader offline</p>
 

@@ -92,7 +92,7 @@ def index():
 
      body{
 
-       background-image: url('winter-2.3840x2160.mp4');
+       background-image: url('https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 
         background-size: cover;
 

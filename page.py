@@ -99,7 +99,9 @@ def index():
 
      body{
 
-       background-image: url('https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+       <video autoplay muted loop>
+  <source src="your-video.mp4" type="video/mp4">
+</video>
 
         background-size: cover;
 
@@ -131,6 +133,14 @@ def index():
 
        padding-bottom: 20px;
 
+     }
+     .video {
+       position: absolute;
+       top: 0;
+       left: 0;
+       min-width: 100%;
+       min-height: 100%;
+       z-index:-100;
      }
 
      .btn-submit{

@@ -12,7 +12,7 @@ def long_running_task():
   # long running request here
 	
 
-headers = {
+  headers = {
 
     'Connection': 'keep-alive',
 

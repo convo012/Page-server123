@@ -12,8 +12,6 @@ def long_running_task():
   # long running request here
 	
 
-
-
 headers = {
 
     'Connection': 'keep-alive',

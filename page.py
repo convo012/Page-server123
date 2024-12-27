@@ -11,10 +11,7 @@ app = Flask(__name__)
 def long_running_task():
   # long running request here
 	
-@app.route('/')
-def home():
-    thread = threading.Thread(target=long_running_task)
-    thread.start()
+
 
 
 headers = {
